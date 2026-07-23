@@ -1,0 +1,19 @@
+200350:Yandex.Cloud
+47764:VK
+9123:Timeweb
+50340:Selectel
+39561:REG.RU
+208677:Cloud.ru
+57363:CDNvideo
+8359:MTS PJSC
+210756:EdgeCenter
+43362:Hosting Ltd
+210079:EuroByte
+204720:Global Cloud Network
+3216:Vimpelcom PJSC
+204490:Kontel
+198610:Beget
+12616:Citytelecom
+31133:MegaFon PJSC
+216334:New Hosting Technologies
+56694:Smart Ape
