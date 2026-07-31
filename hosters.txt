@@ -5,18 +5,24 @@
 39561:REG.RU
 208677:Cloud.ru
 57363:CDNvideo
-8359:MTS PJSC
+8359:MTS
 210756:EdgeCenter
-43362:Hosting Ltd
+43362:Hosting
 210079:EuroByte
 204720:Global Cloud Network
-3216:Vimpelcom PJSC
+3216:Vimpelcom
 204490:Kontel
 198610:Beget
 12616:Citytelecom
-31133:MegaFon PJSC
+31133:MegaFon
 216334:New Hosting Technologies
 56694:Smart Ape
 215013:Yandex.Cloud
 51115:HLL
 197695:REG.RU
+3175:Citytelecom
+49505:Selectel
+57724:DDOS-GUARD
+59627:Docker
+60490:MTS
+209024:MTS
