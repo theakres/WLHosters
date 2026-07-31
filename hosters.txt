@@ -19,3 +19,4 @@
 56694:Smart Ape
 215013:Yandex.Cloud
 51115:HLL
+197695:REG.RU
