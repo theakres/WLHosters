@@ -31,3 +31,4 @@
 44112:SpaceWeb
 48018:Fornex Hosting S.L.
 61400:Start2
+12389:Rostelecom
