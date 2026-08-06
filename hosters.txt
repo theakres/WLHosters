@@ -33,3 +33,4 @@
 61400:Start2
 12389:Rostelecom
 29182:IOT
+20485:TransTeleCom
