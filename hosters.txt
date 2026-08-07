@@ -18,7 +18,6 @@
 216334:New Hosting Technologies
 56694:Smart Ape
 215013:Yandex.Cloud
-51115:HLL
 197695:REG.RU
 3175:Citytelecom
 49505:Selectel
@@ -34,3 +33,4 @@
 12389:Rostelecom
 29182:IOT
 20485:TransTeleCom
+51115:HLL
